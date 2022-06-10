@@ -21,7 +21,7 @@ const nuevoModulo = 21 % 5 === null;
 
 // En los próximos 22 problemas, deberás completar la función.
 // Todo tu código irá dentro de las llaves de la función.
-// Asegúrate que usas "return" cuando la consola te lo pida.
+// Asegúrate que usas "return" cuando la consola te lo pida.git 
 // Pista: "console.log()" NO fucionará.
 // No cambies los nombres de las funciones.
 
